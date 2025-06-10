@@ -1,2 +1,5 @@
 # 데이터 분석가 심민성 이력서
-2025.05.17 updated
+
+Email : kat8850@naver.com
+GitHub : imMinsungSim
+Blog : tup
