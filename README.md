@@ -1,7 +1,7 @@
 # 데이터 분석가 심민성 이력서
 
 Email : kat8850@naver.com <br/>
-GitHub : imMinsungSim <br/>
+GitHub : [imMinsungSim](https://github.com/imMinsungSim) <br/>
 Blog : [soft2_](https://blog.naver.com/soft2_) <br/>
 
 ## 간략소개
